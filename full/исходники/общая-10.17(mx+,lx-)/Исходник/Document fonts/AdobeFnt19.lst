@@ -11,7 +11,7 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\posm\full\общая-10.17()\Исходник\Document fonts\MinionPro-Regular.otf
+OutlineFileName:C:\posm\full\исходники\общая-10.17(mx+,lx-)\Исходник\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -37,7 +37,7 @@ FullName:Open Sans Bold
 MenuName:Open Sans
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\posm\full\общая-10.17()\Исходник\Document fonts\OpenSans-Bold.ttf
+OutlineFileName:C:\posm\full\исходники\общая-10.17(mx+,lx-)\Исходник\Document fonts\OpenSans-Bold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -60,7 +60,7 @@ FullName:Open Sans Extrabold
 MenuName:Open Sans Extrabold
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\posm\full\общая-10.17()\Исходник\Document fonts\OpenSans-ExtraBold.ttf
+OutlineFileName:C:\posm\full\исходники\общая-10.17(mx+,lx-)\Исходник\Document fonts\OpenSans-ExtraBold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -84,7 +84,7 @@ FullName:Open Sans Light
 MenuName:Open Sans Light
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\posm\full\общая-10.17()\Исходник\Document fonts\OpenSans-Light.ttf
+OutlineFileName:C:\posm\full\исходники\общая-10.17(mx+,lx-)\Исходник\Document fonts\OpenSans-Light.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -108,7 +108,7 @@ FullName:Open Sans
 MenuName:Open Sans
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\posm\full\общая-10.17()\Исходник\Document fonts\OpenSans-Regular.ttf
+OutlineFileName:C:\posm\full\исходники\общая-10.17(mx+,lx-)\Исходник\Document fonts\OpenSans-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -131,7 +131,7 @@ FullName:Segoe UI
 MenuName:Segoe UI
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\posm\full\общая-10.17()\Исходник\Document fonts\segoeui.ttf
+OutlineFileName:C:\posm\full\исходники\общая-10.17(mx+,lx-)\Исходник\Document fonts\segoeui.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -153,7 +153,7 @@ FullName:Segoe UI Bold
 MenuName:Segoe UI
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\posm\full\общая-10.17()\Исходник\Document fonts\segoeuib.ttf
+OutlineFileName:C:\posm\full\исходники\общая-10.17(mx+,lx-)\Исходник\Document fonts\segoeuib.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
